@@ -1,0 +1,2 @@
+# macOSsetup
+Personal macOS setup
