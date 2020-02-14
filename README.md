@@ -45,10 +45,6 @@ The first ones I download are at the top (Flycut ❤️, caffeine, 1password Bet
 
 I'm currently using a MacBook Pro 16" (2019), an external 27" monitor (LG 27UD88-W), trackpad and mechanical keyboard.
 
-This is how the screen arrangement looks like:
-
-![](screens.png)
-
 ### Statusbar
 
 This is how my status bar looks like:
@@ -56,6 +52,43 @@ This is how my status bar looks like:
 ![](statusbar.png)
 
 (Clock must be 24h. Show date, no day of week. Show BlueTooth icon. Show Audio icon. Show battery percentage)
+
+### Dock
+
+HIDE the dock, and enter a new world of endless space on on your screen. Go to Dock preferences:
+
+![](dock.png)
+
+### Spaces
+
+I use separated spaces on the left screen (laptop), and the right screen (external monitor). This is how the screen arrangement looks like:
+
+![](screens.png)
+
+I only use 1 space on the right monitor, while I have 4 spaces on the left screen, plus the terminal on another space for its own.
+
+This is how I use them:
+
+- Space 1: For VS Code or documentation.
+- Space 2: Sourcetree
+- Space 3: Slack
+- Space 4: Spotify and miscellanea 
+
+It looks something like this: ![](spaces-left.png)
+
+I use shortcuts to navigate through them. On the keyboard preferences:
+
+![](shortcut-spaces.png)
+
+So noooope, I don't want my spaces to rearrange, thanks. On the mission control preferences:
+
+![](spaces.png)
+
+### Hot corners
+
+Not everyone likes them but I have these hot corners defined, for me they're pretty useful, specially when I want to grab something from the desktop real quick. On Mission Control preferences, go to `Hot Corners...`:
+
+![](hotcorners.png)
 
 ### Trackpad
 
@@ -81,6 +114,26 @@ Now, let's remap a few keys. The most common one is `Caps lock`  to `Escape`. I 
 
 ![](keyremap.png)
 
+Although I use a "English USA" keyboard layout, I change quite often between English and Spanish layouts. I have a defined shortcut to switch between them. On the keyboard preferences:
+
+![](shortcut-lang.png)
+
+### Safari extensions
+
+- WOT - https://www.mywot.com - Pretty useful when you're not sure about entrusting a website
+- 1Password - My password manager of choice
+- AdBlock - You just cannot surf without one
+
+### Bonus
+
+#### Blocking hostnames
+
+Blocking hostnames (aka rerouting on `/etc/hosts`) is a must nowadays. It avoids from advertising to malware, gambling or fakenews. Here's the most famoust list I know: https://github.com/StevenBlack/hosts
+
+Note: Depending on what you do, like if you work on advertising (sorry about that) this may affect your workflow, like not properly showing ads on the bowser or iOS simulator. On the other hand, if your app/website has ads, it's a great way to test how it behaves on an environment where ads cannot reach the outside.
+
+## Apps
+
 ### Terminal (iTerm2 + zsh)
 
 WIP
@@ -94,17 +147,3 @@ WIP
 I use my own color scheme, which you can find here: https://github.com/Lascorbe/omgthemes
 
 My font of choice is Source Code Pro: https://github.com/adobe-fonts/source-code-pro
-
-### Safari extensions
-
-- WOT - https://www.mywot.com - Pretty useful when you're not sure about entrusting a website
-- 1Password - My password manager of choice
-- AdBlock - You just cannot surf without one
-
-### Bonus
-
-#### Blocking hostnames
-
-Blocking hostnames (aka rerouting on `/etc/hosts`) is a must nowadays. Here's the most famoust list I know: https://github.com/StevenBlack/hosts
-
-Note: If you work on advertising (sorry about that) this may affect, like not properly showing ads on the iOS simulator. On the other hand, if you app/website has ads, it's a great way to test how it behaves on an environment like this.
