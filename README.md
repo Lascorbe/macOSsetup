@@ -54,7 +54,7 @@ This is how my status bar looks like:
 
 ### Dock
 
-HIDE the dock, and enter a new world of endless space on on your screen. Go to Dock preferences:
+HIDE the dock, and enter a new world of endless space on your screen. Go to Dock preferences:
 
 ![](resources/dock.png)
 
@@ -70,10 +70,12 @@ This is how I use them:
 
 - Space 1: For VS Code or documentation.
 - Space 2: Sourcetree
-- Space 3: Slack
+- Space 3: Slack (and other messaging apps like Telegram or Messages occasionally)
 - Space 4: Spotify and miscellanea 
 
-It looks something like this: ![](spaces-left.png)
+It looks something like this: 
+
+![](resources/spaces-left.png)
 
 I use shortcuts to navigate through them. On the keyboard preferences:
 
@@ -93,19 +95,19 @@ Not everyone likes them but I have these hot corners defined, for me they're pre
 
 I started using trackpads around 6 years ago, I really prefer it over the mouse for work and normal day to day, specially for text selection and its gestures. For gaming mouse is still king.
 
-First thing is let's make this faster, go to Trackpad preferences and change it what feels good for you:
+First thing is: let's make this faster! Go to Trackpad preferences and change it what feels good for you:
 
 ![](resources/trackpad-fast.png)
 
-Now we need the best feature ever for trackpads, drag with 3 fingers, which you can find in `Accessibility > Pointer Control > Trackpad Options...`
+Now we need the best feature ever for trackpads: drag with 3 fingers. Which you can find in `Accessibility > Pointer Control > Trackpad Options...`
 
 ![](resources/trackpad-3finger.png)
 
 ### Keyboard
 
-Again, too slow, let's make this fast! Go to keyboard preferences and change it, I go for as fast as it can on "Key Repeat" and as short as possible on "Delay Until Repeat":
+Again, too slow, let's make this fast! Go to keyboard preferences and change it, I go for as fast as it can on "Key Repeat" and as short as possible on "Delay Until Repeat". This will make your cursor move like a lighting when using the keyboard arrows for example.
 
-Note: I was using Karabiner for this before, but Apple added this on some previous macOS version which is good enough for me, so I don't install Karabiner anymore.
+Note: I was using Karabiner for this before, but Apple added this config on some previous macOS version which is good enough for me, so I don't install Karabiner anymore.
 
 ![](resources/keyboard.png)
 
@@ -129,7 +131,7 @@ Although I use a "English USA" keyboard layout, I change quite often between Eng
 
 Blocking hostnames (aka rerouting on `/etc/hosts`) is a must nowadays. It avoids from advertising to malware, gambling or fakenews. Here's the most famoust list I know: https://github.com/StevenBlack/hosts
 
-Note: Depending on what you do, like if you work on advertising (sorry about that) this may affect your workflow, like not properly showing ads on the bowser or iOS simulator. On the other hand, if your app/website has ads, it's a great way to test how it behaves on an environment where ads cannot reach the outside.
+Note: Depending on what you do, like if you work on advertising (sorry about that) this may affect your workflow, like not properly showing ads on the browser or the iOS simulator. On the other hand, if your app/website has ads, it's a great way to test how it behaves on an environment where ads cannot reach the outside.
 
 ## Apps
 
