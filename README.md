@@ -1,4 +1,3 @@
-# macOSsetup
 Note: I know all the customisations could be translated to [dotfiles](https://www.quora.com/What-are-dotfiles), something I should do at some point I guess 😅
 
 ## Apps
