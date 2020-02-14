@@ -133,29 +133,23 @@ Note: Depending on what you do, like if you work on advertising (sorry about tha
 
 ## Apps
 
-TODO:
+TODO: explain a bit each app, and potential configs
 
-- explain a bit each app and possible configs
-
-### Terminal (iTerm2 + zsh)
+### 18. Terminal (iTerm2 + zsh)
 
 I use my own color scheme, which you can find here: [`preferences/iTerm_colors.itermcolors`](https://github.com/Lascorbe/macOSsetup/blob/master/preferences/iTerm_colors.itermcolors)
 
-You can set ti up on iTerm2 going to the app preferences. Then go to Profiles, add a new one. Go to the Colors tab, then `Color Presets...`,  `Import...` and select the `.itermcolors` file. Don't forget to set this profile as default before restarting iTerm from `Other Actions...`
+You can set it up on iTerm2 going to the app preferences. Then go to Profiles, add a new one. Go to the Colors tab, then `Color Presets...`,  `Import...` and select the `.itermcolors` file. Don't forget to set this profile as default before restarting iTerm from `Other Actions...`
 
 ![](resources/iterm-color.png)
 
-TODO:
+TODO: zsh setup
 
-- zsh setup
+### 19. Trailer.app
 
-### Trailer.app
+TODO: custom config
 
-TODO:
-
-- config
-
-### Xcode
+### 20. Xcode
 
 I use my own color scheme, which you can find here: https://github.com/Lascorbe/omgthemes
 
