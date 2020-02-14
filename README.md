@@ -48,7 +48,7 @@ I'm currently using a MacBook Pro 16" (2019), an external 27" monitor (LG 27UD88
 
 This is how my status bar looks like:
 
-![](statusbar.png)
+![](resources/statusbar.png)
 
 (Clock must be 24h. Show date, no day of week. Show BlueTooth icon. Show Audio icon. Show battery percentage)
 
@@ -56,13 +56,13 @@ This is how my status bar looks like:
 
 HIDE the dock, and enter a new world of endless space on on your screen. Go to Dock preferences:
 
-![](dock.png)
+![](resources/dock.png)
 
 ### Spaces
 
 I use separated spaces on the left screen (laptop), and the right screen (external monitor). This is how the screen arrangement looks like:
 
-![](screens.png)
+![](resources/screens.png)
 
 I only use 1 space on the right monitor, while I have 4 spaces on the left screen, plus the terminal on another space for its own.
 
@@ -77,17 +77,17 @@ It looks something like this: ![](spaces-left.png)
 
 I use shortcuts to navigate through them. On the keyboard preferences:
 
-![](shortcut-spaces.png)
+![](resources/shortcut-spaces.png)
 
 So noooope, I don't want my spaces to rearrange, thanks. On the mission control preferences:
 
-![](spaces.png)
+![](resources/spaces.png)
 
 ### Hot corners
 
 Not everyone likes them but I have these hot corners defined, for me they're pretty useful, specially when I want to grab something from the desktop real quick. On Mission Control preferences, go to `Hot Corners...`:
 
-![](hotcorners.png)
+![](resources/hotcorners.png)
 
 ### Trackpad
 
@@ -95,11 +95,11 @@ I started using trackpads around 6 years ago, I really prefer it over the mouse 
 
 First thing is let's make this faster, go to Trackpad preferences and change it what feels good for you:
 
-![](trackpad-fast.png)
+![](resources/trackpad-fast.png)
 
 Now we need the best feature ever for trackpads, drag with 3 fingers, which you can find in `Accessibility > Pointer Control > Trackpad Options...`
 
-![](trackpad-3finger.png)
+![](resources/trackpad-3finger.png)
 
 ### Keyboard
 
@@ -107,15 +107,15 @@ Again, too slow, let's make this fast! Go to keyboard preferences and change it,
 
 Note: I was using Karabiner for this before, but Apple added this on some previous macOS version which is good enough for me, so I don't install Karabiner anymore.
 
-![](keyboard.png)
+![](resources/keyboard.png)
 
 Now, let's remap a few keys. The most common one is `Caps lock`  to `Escape`. I use a mechanical keyboard which detects `Option` and `Command` the other way around so I have to switch them. From the keyboard preferences, go to `Modifier Keys...` and make as you wish:
 
-![](keyremap.png)
+![](resources/keyremap.png)
 
 Although I use a "English USA" keyboard layout, I change quite often between English and Spanish layouts. I have a defined shortcut to switch between them. On the keyboard preferences:
 
-![](shortcut-lang.png)
+![](resources/shortcut-lang.png)
 
 ### Safari extensions
 
@@ -133,13 +133,27 @@ Note: Depending on what you do, like if you work on advertising (sorry about tha
 
 ## Apps
 
+TODO:
+
+- explain a bit each app and possible configs
+
 ### Terminal (iTerm2 + zsh)
 
-WIP
+I use my own color scheme, which you can find here: [`preferences/iTerm_colors.itermcolors`](https://github.com/Lascorbe/macOSsetup/blob/master/preferences/iTerm_colors.itermcolors)
+
+You can set ti up on iTerm2 going to the app preferences. Then go to Profiles, add a new one. Go to the Colors tab, then `Color Presets...`,  `Import...` and select the `.itermcolors` file. Don't forget to set this profile as default before restarting iTerm from `Other Actions...`
+
+![](resources/iterm-color.png)
+
+TODO:
+
+- zsh setup
 
 ### Trailer.app
 
-WIP
+TODO:
+
+- config
 
 ### Xcode
 
