@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ASSIGNED_REVIEW_HANDLING_POLICY</key>
+	<integer>2</integer>
+	<key>DB_SNOOZE_OBJECTS</key>
+	<array/>
+	<key>DISPLAY_REVIEW_CHANGE_REQUESTS</key>
+	<true/>
+	<key>DONT_ASK_BEFORE_WIPING_CLOSED</key>
+	<true/>
+	<key>DONT_ASK_BEFORE_WIPING_MERGED</key>
+	<true/>
+	<key>GROUP_BY_REPO</key>
+	<true/>
+	<key>LAST_EXPORT_TIME</key>
+	<date>2019-01-22T16:29:12Z</date>
+	<key>LAST_EXPORT_URL</key>
+	<string>file:///Users/TrailerSettings_2019_01.trailerSettings</string>
+	<key>LAST_PREFS_TAB_SELECTED_OSX</key>
+	<integer>10</integer>
+	<key>LAST_RUN_VERSION_KEY</key>
+	<string>Version 1.6.16 (1488)</string>
+	<key>LAST_SUCCESSFUL_REFRESH</key>
+	<date>2019-01-22T16:28:12Z</date>
+	<key>MARK_PRS_AS_UNREAD_ON_NEW_COMMITS</key>
+	<true/>
+	<key>NEW_ISSUE_DISPLAY_POLICY_INDEX</key>
+	<integer>0</integer>
+	<key>NOTIFY_ON_ALL_REVIEW_ACCEPTANCES</key>
+	<false/>
+	<key>NOTIFY_ON_ALL_REVIEW_CHANGE_REQUESTS</key>
+	<false/>
+	<key>NOTIFY_ON_ALL_REVIEW_DISMISSALS</key>
+	<false/>
+	<key>NOTIFY_ON_REVIEW_ASSIGNMENTS</key>
+	<true/>
+	<key>NOTIFY_ON_STATUS_UPDATES</key>
+	<false/>
+	<key>REFRESH_PERIOD_KEY</key>
+	<real>120</real>
+	<key>SHOW_LABELS</key>
+	<true/>
+	<key>SHOW_STATUSES_EVERYWHERE</key>
+	<true/>
+	<key>SHOW_STATUS_ITEMS</key>
+	<true/>
+	<key>SORT_METHOD_KEY</key>
+	<integer>1</integer>
+	<key>SORT_ORDER_KEY</key>
+	<true/>
+</dict>
+</plist>
