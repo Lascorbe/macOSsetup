@@ -1,7 +1,5 @@
 # macOSsetup
-I'm currently using a MacBook Pro 16" (2019) and an external 27" monitor (LG 27UD88-W). This is how the screen arrangement looks like:
-
-![](screens.png)
+Note: I know all the customisations could be translated to [dotfiles](https://www.quora.com/What-are-dotfiles), something I should do at some point I guess 😅
 
 ## Apps
 
@@ -45,6 +43,12 @@ The first ones I download are at the top (Flycut ❤️, caffeine, 1password Bet
 
 ## Configurations
 
+I'm currently using a MacBook Pro 16" (2019), an external 27" monitor (LG 27UD88-W), trackpad and mechanical keyboard.
+
+This is how the screen arrangement looks like:
+
+![](screens.png)
+
 ### Statusbar
 
 This is how my status bar looks like:
@@ -55,15 +59,41 @@ This is how my status bar looks like:
 
 ### Trackpad
 
-WIP
+I started using trackpads around 6 years ago, I really prefer it over the mouse for work and normal day to day, specially for text selection and its gestures. For gaming mouse is still king.
+
+First thing is let's make this faster, go to Trackpad preferences and change it what feels good for you:
+
+![](trackpad-fast.png)
+
+Now we need the best feature ever for trackpads, drag with 3 fingers, which you can find in `Accessibility > Pointer Control > Trackpad Options...`
+
+![](trackpad-3finger.png)
 
 ### Keyboard
 
-WIP
+Again, too slow, let's make this fast! Go to keyboard preferences and change it, I go for as fast as it can on "Key Repeat" and as short as possible on "Delay Until Repeat":
+
+Note: I was using Karabiner for this before, but Apple added this on some previous macOS version which is good enough for me, so I don't install Karabiner anymore.
+
+![](keyboard.png)
+
+Now, let's remap a few keys. The most common one is `Caps lock`  to `Escape`. I use a mechanical keyboard which detects `Option` and `Command` the other way around so I have to switch them. From the keyboard preferences, go to `Modifier Keys...` and make as you wish:
+
+![](keyremap.png)
 
 ### Terminal (iTerm2 + zsh)
 
 WIP
+
+### Trailer.app
+
+WIP
+
+### Xcode
+
+I use my own color scheme, which you can find here: https://github.com/Lascorbe/omgthemes
+
+My font of choice is Source Code Pro: https://github.com/adobe-fonts/source-code-pro
 
 ### Safari extensions
 
