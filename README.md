@@ -31,6 +31,7 @@ The first ones I download are at the top (Flycut ❤️, caffeine, 1password Bet
 25. Paw - https://paw.cloud
 26. Charles Proxy - https://www.charlesproxy.com
 27. SnippetsLab - https://apps.apple.com/app/id1006087419
+28. Hopper - https://www.hopperapp.com
 29. DaisyDisk - https://daisydiskapp.com
 30. The Unarchiver - https://macpaw.com/the-unarchiver
 31. Tunnelblick - https://tunnelblick.net
