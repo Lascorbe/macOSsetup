@@ -6,7 +6,7 @@ The first ones I download are at the top (Flycut ❤️, caffeine, 1password Bet
 
 1. Flycut - https://apps.apple.com/app/id442160987
 2. Caffeine - http://lightheadsw.com/caffeine/
-3. 1password - https://apps.apple.com/app/id1333542190
+3. 1Password - https://apps.apple.com/app/id1333542190
 4. BetterSnapTool - https://apps.apple.com/app/id417375580
 5. Dropbox - https://www.dropbox.com/install
 6. RescueTime - https://www.rescuetime.com/download-rescuetime
@@ -137,15 +137,54 @@ Note: Depending on what you do, like if you work on advertising (sorry about tha
 
 TODO: explain a bit each app, and potential configs
 
+### 1. Flycut
+
+My clipboard manager of choice, I love how you can go through the last 40 entries you copied hitting shift+cmd+V. It's the first tool I install, for me, inmensely useful.
+
+I edit it to "Display in menu" 40 entries, and switch the icon to "White scissors".
+
+### 2. Caffeine
+
+No need to say much, just keeps my mac from going to sleep when turned on.
+
+### 3. 1Password
+
+My password manager of choice. With Safari and Firefox extensions.
+
+### 4. BetterSnapTool
+
+A great tool to manage all the windows. One thing I really like of this tool is how it maximizes the window if you drag them to the top-center of the screen, like in Windows. It was a feature I really missed from Microsoft.
+
+I have customized the overlay view, I don't like the default one, and deactivated animations:
+
+![](resources/bst-layout.png)
+
+I have a few shortcuts set up, like maximize window (ctrl+option+cmd+f), center (ctrl+option+cmd+c) or move to next monitor (shift+ctrl+option+cmd+arrow):
+
+![](resources/bst-shortcuts.png)
+
 ### 18. Terminal (iTerm2 + zsh)
 
-I use my own color scheme, which you can find here: [`preferences/iTerm_colors.itermcolors`](https://github.com/Lascorbe/macOSsetup/blob/master/preferences/iTerm_colors.itermcolors)
+I use my own color scheme, which you can find here: [`preferences/iTerm_colors.itermcolors`](/preferences/iTerm_colors.itermcolors)
 
 You can set it up on iTerm2 going to the app preferences. Then go to Profiles, add a new one. Go to the Colors tab, then `Color Presets...`,  `Import...` and select the `.itermcolors` file. Don't forget to set this profile as default before restarting iTerm from `Other Actions...`
 
 ![](resources/iterm-color.png)
 
-TODO: zsh setup
+I use [zsh](https://www.zsh.org) as m shell, and I use [oh-my-zsh](https://ohmyz.sh) to configure it.
+
+I like the theme [refined](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/refined.zsh-theme), it's clean when it has to, or it shows info when it can, like the path or git branch.
+
+![](resources/zsh.png)
+
+Plugins I use:
+
+- [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git): Adds useful git shortcuts. 
+- [wd](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/wd): Let's you add shortcuts to specific folders, like `DerivedData`, `Library` or your projects/dev folder.
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Autocompletes you commands on the go, really nice. Something I loved in Fish and wanted with zsh. You have to take further steps to install it since it doesn't come with `oh-my-zsh`.
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): Highlights your commands on the go. You have to take further steps to install it since it doesn't come with `oh-my-zsh`.
+
+All the configuration go are set on the [`.zshrc` file](/preferences/oh-my-zsh/zshrc.txt). I also have a handy [`env.sh` file](/preferences/oh-my-zsh/env.sh) with a few aliases and stuff. I specially like the `openx()` func which I totally [copied](https://orta.io/rebase/on/opening-xcode-projects-and-workspaces) from @orta.
 
 ### 19. Trailer.app
 

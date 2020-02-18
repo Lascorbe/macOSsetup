@@ -1,26 +1,23 @@
 #!/bin/zsh
 
-# PATH
+# rbenv
+## PATH
 export PATH="$HOME/.rbenv/bin:$PATH"
-
-#Owner
+## Owner
 eval "$(rbenv init -)"
 
 # FileSearch
 function f() { find . -iname "*$1*" ${@:2} }
 function r() { grep "$1" ${@:2} -R . }
 
-#mkdir and cd
+# mkdir and cd
 function mkcd() { mkdir -p "$@" && cd "$_"; }
 
-# Aliases
-alias cppcompile='c++ -std=c++11 -stdlib=libc++'
+# Editing config files
+alias zshconfig="code ~/.zshrc"
+alias envconfig="code ~/env.sh"
 
-# Use sublimetext for editing config files
-alias zshconfig="subl ~/.zshrc"
-alias envconfig="subl ~/env.sh"
-
-# Tries to find the Xcode workspace or project on the current folder, and opens it
+# Tries to find the Xcode workspace or project on the current folder, and opens it. By @orta
 openx() {
   if test -n "$(find . -maxdepth 1 -name '*.xcworkspace' -print -quit)"
   then
