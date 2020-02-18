@@ -188,9 +188,13 @@ All the configuration go are set on the [`.zshrc` file](/preferences/oh-my-zsh/z
 
 ### 19. Trailer.app
 
-TODO: custom config
+Handy app to get notified and quickly jump into your Github issues and PRs.
+
+I have the configuration file at [preferences/TrailerSettings_2019_01.trailerSettings](preferences/TrailerSettings_2019_01.trailerSettings). It's missing an entry for the Github credentials which I deleted, so don't use that file replacing yours directly.
 
 ### 20. Xcode
+
+Xcode, you probably know what it is, if not, it's the main IDE to develop on the Apple ecosystem. I don't want to talk much about it since there're great resources like plugins and shortcuts all around. 
 
 I use my own color scheme, which you can find here: https://github.com/Lascorbe/omgthemes
 
