@@ -143,15 +143,15 @@ My clipboard manager of choice, I love how you can go through the last 40 entrie
 
 I edit it to "Display in menu" 40 entries, and switch the icon to "White scissors".
 
-### 2. Caffeine
+### 2. Caffeine
 
 No need to say much, just keeps my mac from going to sleep when turned on.
 
-### 3. 1Password
+### 3. 1Password
 
 My password manager of choice. With Safari and Firefox extensions.
 
-### 4. BetterSnapTool
+### 4. BetterSnapTool
 
 A great tool to manage all the windows. One thing I really like of this tool is how it maximizes the window if you drag them to the top-center of the screen, like in Windows. It was a feature I really missed from Microsoft.
 
