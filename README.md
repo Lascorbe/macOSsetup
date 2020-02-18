@@ -184,7 +184,7 @@ Plugins I use:
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): Autocompletes you commands on the go, really nice. Something I loved in Fish and wanted with zsh. You have to take further steps to install it since it doesn't come with `oh-my-zsh`.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): Highlights your commands on the go. You have to take further steps to install it since it doesn't come with `oh-my-zsh`.
 
-All the configuration go are set on the [`.zshrc` file](/preferences/oh-my-zsh/zshrc.txt). I also have a handy [`env.sh` file](/preferences/oh-my-zsh/env.sh) with a few aliases and stuff. I specially like the `openx()` func which I totally [copied](https://orta.io/rebase/on/opening-xcode-projects-and-workspaces) from @orta.
+All the configuration go are set on the [`.zshrc` file](/preferences/oh-my-zsh/zshrc.txt). I also have a handy [`env.sh` file](/preferences/oh-my-zsh/env.sh) with a few aliases and stuff. I specially like the `openx()` func which I totally [copied](https://orta.io/rebase/on/opening-xcode-projects-and-workspaces) from [@orta](https://github.com/orta).
 
 ### 19. Trailer.app
 
