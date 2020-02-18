@@ -10,7 +10,7 @@ The first ones I download are at the top (Flycut ❤️, caffeine, 1password Bet
 4. BetterSnapTool - https://apps.apple.com/app/id417375580
 5. Dropbox - https://www.dropbox.com/install
 6. RescueTime - https://www.rescuetime.com/download-rescuetime
-7. Calendar | Fantastical - https://flexibits.com/fantastical
+7. Itsycal - https://www.mowglii.com/itsycal/
 8. Tripmode - https://www.tripmode.ch
 9. Firefox - https://www.mozilla.org/en-US/firefox/new/
 10. VLC - https://www.videolan.org/vlc/download-macosx.html
