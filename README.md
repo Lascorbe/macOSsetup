@@ -172,6 +172,8 @@ You can set it up on iTerm2 going to the app preferences. Then go to Profiles, a
 
 ![](resources/iterm-color.png)
 
+On the text tab, change the font to your preferred one (I use Source Code Pro) and preferred size (I'm using 18).
+
 I use [zsh](https://www.zsh.org) as m shell, and I use [oh-my-zsh](https://ohmyz.sh) to configure it.
 
 I like the theme [refined](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/refined.zsh-theme), it's clean when it has to, or it shows info when it can, like the path or git branch.
